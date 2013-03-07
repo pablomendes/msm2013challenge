@@ -5,8 +5,8 @@
 5		"_Mention_ queen , bohemian rhapsody please"
 6	PER/cheryl cole;PER/Danni;PER/eddie;	cheryl cole is starting to lose that connection with me ! But Danni has maintained the steady eddie feel to me ! ! ? What you think ?
 7	ORG/Lester;	"Mason & Begg Limited ; URL\/http : \/ \/ is . gd\/hEqsT ; , Lester , '' Mason & Begg Limited : '' '' ` Forbidden Fruit ' calls on all of us to examine the long history of censoring ideas '' '' _URL_ ''"
-8	PER/Thomas Watson 	"To be successful , you have to have your heart in your business , and your business in your heart . Thomas Watson , Sr."
-9	"PER/Sanchez;PER/Eli Wallach;MISC/The Good, The Bad and the Ugly;"	"Sanchez looks like Eli Wallach in The Good , The Bad and the Ugly with that facial scruff ."
+8	PER/Thomas Watson;	"To be successful , you have to have your heart in your business , and your business in your heart . Thomas Watson , Sr."
+9	PER/Sanchez;PER/Eli Wallach;MISC/The Good, The Bad and the Ugly;	"Sanchez looks like Eli Wallach in The Good , The Bad and the Ugly with that facial scruff ."
 10		"_Mention_ the history of the mayor , the city ."
 11	MISC/Entertainment Tonight;	` Entertainment Tonight ' creator dies at 80 - Yahoo ! News _URL_
 12	PER/Julian Assange;	` The truth will always win ' - Julian Assange writes #wikileaks 
@@ -1025,7 +1025,7 @@
 1025	PER/Christ;	_Mention_ . #keep strong . Do u know why #Jesus Christ was persecuted ? 
 1026		_Mention_ The fun - and the money - never stops with the Z. _URL_
 1027	PER/Oscar Wilde;	"_Mention_ I think it was Oscar Wilde who said , '' '' `` We are all in the gutter '' , '' but some of us are sniffing some quality markers . '' '' ''"
-1028	MISC/Slaughterhouse 5;MISC/Catch-22;MISC/1984; 	"_Mention_ Some great stories come out of that - \* Catch-22 \* , \* 1984 \* , \* Slaughterhouse 5 \* - all stories where bad ideas are the bad guys. : - -RRB-"
+1028	MISC/Slaughterhouse 5;MISC/Catch-22;MISC/1984;	"_Mention_ Some great stories come out of that - \* Catch-22 \* , \* 1984 \* , \* Slaughterhouse 5 \* - all stories where bad ideas are the bad guys. : - -RRB-"
 1029	PER/Belle Amie;	"_Mention_ '' `` Simon '' , `` please give Belle Amie as much attention as 1 direction and you will have 2 acts in the final '' '' ! ! ''"
 1030	PER/Kevin;	"_Mention_ Hey , would you mind taking a sec to vote for Kevin so he can win a shorty award ? _URL_"
 1031		_Mention_ waaa3 cool ! ! ! Who 's the artist . . Glad u know henna ! ! It 's typically oriental stuff ; -RRB- . . Love the tattoo ! ! !
@@ -2382,7 +2382,7 @@
 2382	PER/Snoop Dogg;PER/Cameron Diaz;PER/Snoop Dogg;	New Entry Snoop Dogg : : El Lay - Cameron Diaz 's admission that she bought marijuana from Snoop Dogg when they attend ... _URL_
 2383	MISC/Brazilian;MISC/Moroccan;	New Organix Brazilian Keratin Therapy & Moroccan Argan Oil collections _URL_
 2384		New question posted ! - Please anwser this ... I need more anwsers ! ? . Answer this now at _URL_
-2385	MISC/Rootkit;ORG/Windows; New Rootkit Bypasses Windows Code-Signing Security _URL_
+2385	MISC/Rootkit;ORG/Windows;	New Rootkit Bypasses Windows Code-Signing Security _URL_
 2386	PER/Joe Cocker;	new song of the day -- -RRB- Joe Cocker Woman to Woman _URL_ via _Mention_
 2387	LOC/New york;	New york here 's to the
 2388	PER/Eneramo;	News : Eneramo moves at cut-price - The Nation Newspaper _URL_
